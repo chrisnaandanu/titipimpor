@@ -1,3 +1,5 @@
 Bisnis Model Canvas
 - Tentukan Customer Segment
+  1.Mahasiswa
+  2.Pemilik Usaha Rintisan
 - Tenutkan Value Propotition
