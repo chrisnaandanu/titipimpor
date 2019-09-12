@@ -1,0 +1,4 @@
+Schedule kerja bulan september 2019
+minggu pertama
+- menyelesaikan bisnis model
+- implementasi bisnis model
